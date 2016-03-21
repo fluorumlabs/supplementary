@@ -148,9 +148,9 @@
 <wire x1="9.525" y1="0" x2="9.525" y2="1.27" width="1.016" layer="20"/>
 <wire x1="9.525" y1="3.81" x2="9.525" y2="6.35" width="1.016" layer="20"/>
 <rectangle x1="10.16" y1="0" x2="10.4775" y2="2.54" layer="21"/>
-<rectangle x1="12.3825" y1="0" x2="12.7" y2="2.2225" layer="21"/>
-<rectangle x1="10.4775" y1="2.2225" x2="11.7475" y2="2.54" layer="21"/>
-<rectangle x1="10.4775" y1="0" x2="12.3825" y2="0.3175" layer="21"/>
+<rectangle x1="10.16" y1="2.2225" x2="12.7" y2="2.54" layer="21"/>
+<rectangle x1="10.16" y1="0" x2="12.7" y2="0.3175" layer="21"/>
+<rectangle x1="12.3825" y1="0" x2="12.7" y2="2.54" layer="21"/>
 </plain>
 <libraries>
 <library name="capacitors">
