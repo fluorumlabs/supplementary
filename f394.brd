@@ -436,7 +436,7 @@ Please make sure your boards conform to these design rules.</description>
 <elements>
 <element name="394" library="module-footprints" package="BA3760X8" value="" x="0" y="0"/>
 <element name="R1" library="resistors" package="R-0603" value="" x="8.09625" y="2.8575" smashed="yes" rot="MR0"/>
-<element name="R2" library="resistors" package="R-0603" value="" x="8.09625" y="4.445" smashed="yes" rot="MR180"/>
+<element name="R2" library="resistors" package="R-0603" value="" x="8.09625" y="4.7625" smashed="yes" rot="MR180"/>
 <element name="VT1" library="transistors-npn" package="SOT363_PHILIPS" value="PMP4201Y" x="5.08" y="3.81" smashed="yes" rot="MR90"/>
 </elements>
 <signals>
@@ -523,7 +523,7 @@ Please make sure your boards conform to these design rules.</description>
 <signal name="N$7">
 <contactref element="R1" pad="2"/>
 <contactref element="R2" pad="1"/>
-<wire x1="7.24625" y1="2.8575" x2="7.24625" y2="4.445" width="0.254" layer="16"/>
+<wire x1="7.24625" y1="2.8575" x2="7.24625" y2="4.7625" width="0.254" layer="16"/>
 </signal>
 <signal name="N$9">
 <contactref element="394" pad="T4"/>
@@ -538,7 +538,7 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="394" pad="B5"/>
 <contactref element="394" pad="T5"/>
 <wire x1="8.89" y1="6.595" x2="8.89" y2="4.50125" width="0.254" layer="16"/>
-<wire x1="8.89" y1="4.50125" x2="8.94625" y2="4.445" width="0.254" layer="16"/>
+<wire x1="8.89" y1="4.50125" x2="8.94625" y2="4.7625" width="0.254" layer="16"/>
 <wire x1="8.89" y1="6.595" x2="8.89" y2="6.595" width="0" layer="19" extent="1-16"/>
 </signal>
 </signals>
